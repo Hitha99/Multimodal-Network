@@ -31,5 +31,4 @@ Traditional calorie estimation often lacks precision due to reliance on a single
 
 > Note: Data is not included in the repository due to privacy constraints. Please reach out for access or use your own compatible dataset.
 
-## 🏗️ Architecture
 
